@@ -18,3 +18,13 @@
     padding: 20px;
     margin-top: 50px;
 }
+
+.btn-primary {
+    background-color: #4B2E83;
+    border-color: #4B2E83;
+}
+
+.btn-primary:hover {
+    background-color: #3A2268;
+    border-color: #3A2268;
+}
