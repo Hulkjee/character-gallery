@@ -1,0 +1,20 @@
+.card-img-top {
+    height: 350px;
+    object-fit: cover;
+}
+
+.navbar {
+    background-color: #4B2E83;
+}
+
+.quick-info-header {
+    background-color: #4B2E83;
+}
+
+.footer {
+    background-color: #4B2E83;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin-top: 50px;
+}
